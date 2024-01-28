@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Xiwei Zhao 赵熙蔚, a master student majoring Robotics at Aalto university.
+I am Xiwei Zhao 赵熙蔚, a master student majoring in Robotics at Aalto university.
 
 I love all things about theoretical machine learning: optimization, time-series prediction, decision making, optimal control, reinforcement learning, causal thinking, etc.
 
