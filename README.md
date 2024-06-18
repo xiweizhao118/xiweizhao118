@@ -2,7 +2,7 @@
 
 I am Xiwei Zhao 赵熙蔚, a master student majoring in Robotics at Aalto university.
 
-I love all things about theoretical machine learning: optimization, time-series prediction, decision making, optimal control, reinforcement learning, causal thinking, etc.
+I love all things about machine learning and robotics: reinforcement learning, imitation learning, robot transformer models, etc.
 
 <!-- ![Xiwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiweizhao118&show_icons=true&theme=tokyonight) -->
 
